@@ -2,8 +2,7 @@
 1.	Team’s Registered Email ID: ritapaghatak119@gmail.com
 
 2.	Team Name:		      727702-U1S4FJ83
-3.	Team Members Name:       
-                        Ritapa Ghatak, Ishita Das, Arunima Patra, Maitri Samanta.
+3.	Team Members Name:  Ritapa Ghatak, Ishita Das, Arunima Patra, Maitri Samanta.
 
 4.  Github_userid :
                         Ritapaghtak, Ishita-Das-1202, Arunima442004, Paisible12.
