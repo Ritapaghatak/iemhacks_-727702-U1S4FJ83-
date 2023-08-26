@@ -3,10 +3,10 @@
 
 2.	Team Name		      727702-U1S4FJ83
 3.	Team Members name        
-4.                          Ritapa Ghatak
-                            Ishita Das
-                            Arunima Patra
-                            Maitri Samanta
+     Ritapa Ghatak
+     Ishita Das
+     Arunima Patra
+     Maitri Samanta
 
    Github_userid
                         Ritapaghtak
