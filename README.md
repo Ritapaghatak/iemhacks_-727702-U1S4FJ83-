@@ -1,21 +1,21 @@
      # farmland
-1.		Team’s Registered Email ID  ritapaghatak119@gmail.com
+1.	Team’s Registered Email ID  ritapaghatak119@gmail.com
 
-2.		Team Name		      727702-U1S4FJ83
-3.		Team Members name        
+2.	Team Name		      727702-U1S4FJ83
+3.	Team Members name        
 4.                          Ritapa Ghatak
                             Ishita Das
                             Arunima Patra
                             Maitri Samanta
 
-         Github_userid
+    Github_userid
                         Ritapaghtak
                         Ishita-Das-1202
                         Arunima442004
                         Paisible12
 
                         
-6.		Theme Chosen:Agriculture & Green Tech
+6.	 Theme Chosen:Agriculture & Green Tech
 7.    Problem Statement                            
       Farmers all over the world are plagued by several issues. These problems indirectly and directly affect the farmer’s life. Furthermore, farming practices and 
       other aspects of agriculture can take up resources and time. The problems faced by farmers are typically unnoticed in the food industry. 
