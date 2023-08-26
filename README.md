@@ -6,10 +6,7 @@
                                Ritapa Ghatak, Ishita Das, Arunima Patra, Maitri Samanta.
 
  4.  Github_userid :
-                        Ritapaghtak, 
-                        Ishita-Das-1202, 
-                        Arunima442004, 
-                        Paisible12.
+                        Ritapaghtak, Ishita-Das-1202, Arunima442004, Paisible12.
 
                         
 6.	 Theme Chosen: Agriculture & Green Tech
