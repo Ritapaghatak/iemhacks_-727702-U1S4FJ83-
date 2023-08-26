@@ -1,4 +1,4 @@
-     # farmland
+# farmland
 1.	Team’s Registered Email ID  ritapaghatak119@gmail.com
 
 2.	Team Name		      727702-U1S4FJ83
@@ -8,7 +8,7 @@
                             Arunima Patra
                             Maitri Samanta
 
-    Github_userid
+   Github_userid
                         Ritapaghtak
                         Ishita-Das-1202
                         Arunima442004
