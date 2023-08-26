@@ -2,7 +2,7 @@
 1.	Team’s Registered Email ID: ritapaghatak119@gmail.com
 
 2.	Team Name:		      727702-U1S4FJ83
-3.	Team Members name:       
+3.	Team Members Name:       
                         Ritapa Ghatak,    
                         Ishita Das,     
                         Arunima Patra,    
