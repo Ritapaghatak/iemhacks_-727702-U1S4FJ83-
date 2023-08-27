@@ -1,4 +1,4 @@
-# farmland
+# Farmland
 1.	Team’s Registered Email ID: ritapaghatak119@gmail.com
 
 2.	Team Name:		      727702-U1S4FJ83
